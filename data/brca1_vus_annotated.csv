@@ -1,0 +1,200 @@
+Name,hgvs_clean,cadd_phred,polyphen_score,sift_score,af,Type
+NM_007294.4(BRCA1):c.1405G>T (p.Ala469Ser),NM_007294.4:c.1405G>T,1.225,0.163,0.29,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4641G>T (p.Leu1547Phe),NM_007294.4:c.4641G>T,0.552,0.33,0.36,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1360A>C (p.Ser454Arg),NM_007294.4:c.1360A>C,8.519,0.468,0.07,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4571C>G (p.Ser1524Cys),NM_007294.4:c.4571C>G,22.8,0.328,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4823C>T (p.Ala1608Val),NM_007294.4:c.4823C>T,5.137,0.025,0.18,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4741G>C (p.Glu1581Gln),NM_007294.4:c.4741G>C,6.031,0.006,0.09,1.368e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.490A>T (p.Thr164Ser),NM_007294.4:c.490A>T,6.62,0.0,1.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4276T>A (p.Ser1426Thr),NM_007294.4:c.4276T>A,14.6,0.108,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4862A>G (p.Asp1621Gly),NM_007294.4:c.4862A>G,12.2,0.0,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2540T>C (p.Met847Thr),NM_007294.4:c.2540T>C,14.83,0.082,0.18,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4426A>G (p.Lys1476Glu),NM_007294.4:c.4426A>G,19.41,0.027,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4660C>A (p.Pro1554Thr),NM_007294.4:c.4660C>A,13.08,0.017,0.1,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.-19-2_-19-1insAT,NM_007294.4:c.-19-2_-19-1insAT,14.85,0.076,0.05,6.842e-07,Insertion
+NM_007294.4(BRCA1):c.548-17G>A,NM_007294.4:c.548-17G>A,14.68,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4693G>A (p.Glu1565Lys),NM_007294.4:c.4693G>A,13.19,0.001,0.09,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4713_4715del (p.Ser1572del),NM_007294.4:c.4713_4715del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.4042G>C (p.Gly1348Arg),NM_007294.4:c.4042G>C,18.77,0.111,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5399T>G (p.Leu1800Arg),NM_007294.4:c.5399T>G,7.797,0.0,0.39,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.449C>G (p.Thr150Ser),NM_007294.4:c.449C>G,9.42,0.354,0.29,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5332+564C>G,NM_007294.4:c.5332+564C>G,17.53,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5408G>A (p.Gly1803Asp),NM_007294.4:c.5408G>A,1.656,0.121,0.24,6.571e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.4711T>C (p.Phe1571Leu),NM_007294.4:c.4711T>C,17.95,0.001,0.08,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.56A>G (p.Gln19Arg),NM_007294.4:c.56A>G,24.5,0.455,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3467A>G (p.Asp1156Gly),NM_007294.4:c.3467A>G,15.8,0.148,0.11,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4060A>G (p.Asn1354Asp),NM_007294.4:c.4060A>G,10.23,0.0,1.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.310A>G (p.Ser104Gly),NM_007294.4:c.310A>G,17.91,0.099,0.1,6.862e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5152+18_5152+22delinsAAGTA,NM_007294.4:c.5152+18_5152+22delinsAAGTA,14.85,0.076,0.05,6.842e-07,Indel
+NM_007294.4(BRCA1):c.2409T>G (p.Ser803Arg),NM_007294.4:c.2409T>G,4.657,0.034,0.08,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.23T>A (p.Val8Asp),NM_007294.4:c.23T>A,21.0,0.007,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2068_2082del (p.Lys690_Ser694del),NM_007294.4:c.2068_2082del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.171_172delinsTT (p.Pro58Ser),NM_007294.4:c.171_172delinsTT,14.85,0.076,0.05,6.842e-07,Indel
+NM_007294.4(BRCA1):c.564A>C (p.Glu188Asp),NM_007294.4:c.564A>C,22.2,0.455,0.06,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4421C>A (p.Ala1474Asp),NM_007294.4:c.4421C>A,17.3,0.194,0.07,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.44T>C (p.Ile15Thr),NM_007294.4:c.44T>C,23.4,0.02,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3409A>T (p.Met1137Leu),NM_007294.4:c.3409A>T,0.28,0.025,0.2,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4589A>C (p.Lys1530Thr),NM_007294.4:c.4589A>C,13.39,0.015,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1509G>C (p.Lys503Asn),NM_007294.4:c.1509G>C,18.72,0.998,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4790C>A (p.Thr1597Asn),NM_007294.4:c.4790C>A,3.381,0.025,0.07,3.42e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.1133G>C (p.Ser378Thr),NM_007294.4:c.1133G>C,24.9,0.998,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3497C>T (p.Ala1166Val),NM_007294.4:c.3497C>T,12.35,0.177,0.1,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4459A>G (p.Lys1487Glu),NM_007294.4:c.4459A>G,8.577,0.057,0.24,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4618G>C (p.Glu1540Gln),NM_007294.4:c.4618G>C,5.247,0.076,0.46,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4790C>G (p.Thr1597Ser),NM_007294.4:c.4790C>G,1.502,0.0,0.21,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.8T>C (p.Leu3Ser),NM_007294.4:c.8T>C,21.8,0.532,0.11,6.846e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5197_5199del (p.Asp1733del),NM_007294.4:c.5197_5199del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.3905A>G (p.Glu1302Gly),NM_007294.4:c.3905A>G,11.88,0.0,0.09,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4186C>G (p.Gln1396Glu),NM_007294.4:c.4186C>G,26.2,0.225,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4180A>C (p.Thr1394Pro),NM_007294.4:c.4180A>C,24.7,0.739,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.333A>C (p.Glu111Asp),NM_007294.4:c.333A>C,20.5,0.17,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2438G>A (p.Gly813Glu),NM_007294.4:c.2438G>A,6.134,0.0,1.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.487A>G (p.Arg163Gly),NM_007294.4:c.487A>G,20.6,0.176,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4611A>T (p.Gln1537His),NM_007294.4:c.4611A>T,16.53,0.739,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3692T>C (p.Phe1231Ser),NM_007294.4:c.3692T>C,21.1,0.025,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.615dup (p.Gln206fs),NM_007294.4:c.615dup,14.85,0.076,0.05,6.842e-07,Duplication
+NC_000017.10:g.(?_41276014)_(41277500_?)dup,NC_000017.10:g._dup,14.85,0.076,0.05,6.842e-07,Duplication
+NM_007294.4(BRCA1):c.720A>T (p.Gln240His),NM_007294.4:c.720A>T,5.565,0.019,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4471C>A (p.Pro1491Thr),NM_007294.4:c.4471C>A,12.34,0.003,0.15,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.585_586del (p.Tyr196fs),NM_007294.4:c.585_586del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.593+4A>C,NM_007294.4:c.593+4A>C,17.79,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4199T>A (p.Met1400Lys),NM_007294.4:c.4199T>A,23.7,0.015,0.0,6.57e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.5051C>G (p.Thr1684Ser),NM_007294.4:c.5051C>G,25.1,0.915,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4475G>A (p.Gly1492Glu),NM_007294.4:c.4475G>A,6.191,0.001,0.31,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4889A>G (p.Glu1630Gly),NM_007294.4:c.4889A>G,12.28,0.025,0.13,6.84e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4894G>T (p.Val1632Leu),NM_007294.4:c.4894G>T,0.209,0.001,0.1,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2179C>T (p.Pro727Ser),NM_007294.4:c.2179C>T,13.53,0.003,0.28,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5013_5015del (p.Lys1671_His1672delinsAsn),NM_007294.4:c.5013_5015del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.305C>T (p.Ala102Val),NM_007294.4:c.305C>T,21.3,0.113,0.04,6.863e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5288G>C (p.Gly1763Ala),NM_007294.4:c.5288G>C,22.1,0.045,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3787T>G (p.Leu1263Val),NM_007294.4:c.3787T>G,0.006,0.007,0.08,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3739G>C (p.Val1247Leu),NM_007294.4:c.3739G>C,0.288,0.003,0.06,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.736T>A (p.Leu246Met),NM_007294.4:c.736T>A,14.87,0.997,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4372C>G (p.Gln1458Glu),NM_007294.4:c.4372C>G,12.82,0.0,1.0,6.844e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.-19-11A>T,NM_007294.4:c.-19-11A>T,1.542,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2803A>C (p.Lys935Gln),NM_007294.4:c.2803A>C,12.44,0.206,0.07,2.052e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.3089A>G (p.Asn1030Ser),NM_007294.4:c.3089A>G,10.75,0.429,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4412G>T (p.Gly1471Val),NM_007294.4:c.4412G>T,14.01,0.076,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4358-9C>A,NM_007294.4:c.4358-9C>A,18.36,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4697C>G (p.Ser1566Cys),NM_007294.4:c.4697C>G,24.4,0.755,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.466C>G (p.Leu156Val),NM_007294.4:c.466C>G,15.9,0.013,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1037C>G (p.Pro346Arg),NM_007294.4:c.1037C>G,11.12,0.247,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4810C>A (p.Gln1604Lys),NM_007294.4:c.4810C>A,14.24,0.005,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1415C>G (p.Pro472Arg),NM_007294.4:c.1415C>G,15.63,0.726,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4622A>T (p.Glu1541Val),NM_007294.4:c.4622A>T,12.71,0.012,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5009G>A (p.Arg1670Lys),NM_007294.4:c.5009G>A,8.653,0.062,0.12,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4504C>T (p.Pro1502Ser),NM_007294.4:c.4504C>T,13.22,0.006,0.08,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.94A>G (p.Lys32Glu),NM_007294.4:c.94A>G,21.6,0.23,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5428G>C (p.Val1810Leu),NM_007294.4:c.5428G>C,14.9,0.099,0.05,6.84e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.370A>C (p.Ile124Leu),NM_007294.4:c.370A>C,17.98,0.354,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5275_5276delinsTG (p.Lys1759Trp),NM_007294.4:c.5275_5276delinsTG,14.85,0.899,0.0,6.842e-07,Indel
+NM_007294.4(BRCA1):c.80+2461C>T,NM_007294.4:c.80+2461C>T,20.5,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2593A>G (p.Lys865Glu),NM_007294.4:c.2593A>G,24.7,0.997,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4547G>A (p.Ser1516Asn),NM_007294.4:c.4547G>A,5.232,0.001,0.13,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3545A>G (p.Gln1182Arg),NM_007294.4:c.3545A>G,14.91,0.815,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4103C>T (p.Ala1368Val),NM_007294.4:c.4103C>T,8.351,0.005,0.19,4.111e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.3311A>G (p.Lys1104Arg),NM_007294.4:c.3311A>G,14.89,0.217,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3449C>G (p.Pro1150Arg),NM_007294.4:c.3449C>G,23.8,0.998,0.0,1.368e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.5182A>G (p.Met1728Val),NM_007294.4:c.5182A>G,11.55,0.003,0.46,6.857e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2305A>C (p.Ile769Leu),NM_007294.4:c.2305A>C,16.83,0.682,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5586C>G (p.His1862Gln),NM_007294.4:c.5586C>G,17.07,0.215,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4836G>T (p.Gln1612His),NM_007294.4:c.4836G>T,11.71,0.09,0.01,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4955T>A (p.Met1652Lys),NM_007294.4:c.4955T>A,24.1,0.015,0.0,6.84e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.330G>C (p.Lys110Asn),NM_007294.4:c.330G>C,18.83,0.64,0.06,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2770A>G (p.Asn924Asp),NM_007294.4:c.2770A>G,0.195,0.013,0.25,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.616C>G (p.Gln206Glu),NM_007294.4:c.616C>G,5.592,0.0,0.2,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4549C>G (p.Leu1517Val),NM_007294.4:c.4549C>G,18.81,0.057,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4338A>T (p.Glu1446Asp),NM_007294.4:c.4338A>T,14.19,0.055,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3991_4096+10delinsAT,NM_007294.4:c.3991_4096+10delinsAT,14.85,0.076,0.05,6.842e-07,Indel
+NM_007294.4(BRCA1):c.1808C>T (p.Ser603Leu),NM_007294.4:c.1808C>T,23.3,0.75,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.92T>A (p.Ile31Asn),NM_007294.4:c.92T>A,26.9,0.92,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.642T>G (p.Asp214Glu),NM_007294.4:c.642T>G,5.929,0.029,0.64,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4986+68A>G,NM_007294.4:c.4986+68A>G,7.01,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3194A>G (p.Asp1065Gly),NM_007294.4:c.3194A>G,6.769,0.0,1.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.680A>T (p.Glu227Val),NM_007294.4:c.680A>T,17.08,0.006,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2250_2252del (p.Met751del),NM_007294.4:c.2250_2252del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.3680A>T (p.Gln1227Leu),NM_007294.4:c.3680A>T,22.7,0.039,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3464A>G (p.Asp1155Gly),NM_007294.4:c.3464A>G,12.67,0.182,0.07,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4984T>C (p.Phe1662Leu),NM_007294.4:c.4984T>C,4.84,0.003,0.92,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.301+3_301+8del,NM_007294.4:c.301+3_301+8del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.5059GTT[3] (p.Val1688_Met1689insVal),NM_007294.4:c.5059GTT[3],14.85,0.076,0.05,6.842e-07,Microsatellite
+NM_007294.4(BRCA1):c.617A>C (p.Gln206Pro),NM_007294.4:c.617A>C,18.04,0.095,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.584C>T (p.Thr195Ile),NM_007294.4:c.584C>T,7.419,0.063,0.3,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3685T>G (p.Leu1229Val),NM_007294.4:c.3685T>G,22.0,0.91,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.386G>T (p.Gly129Val),NM_007294.4:c.386G>T,24.2,0.479,0.0,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.482C>G (p.Thr161Ser),NM_007294.4:c.482C>G,16.81,0.007,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2230G>T (p.Ala744Ser),NM_007294.4:c.2230G>T,2.545,0.102,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.-19-11A>G,NM_007294.4:c.-19-11A>G,7.487,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4684C>T (p.Pro1562Ser),NM_007294.4:c.4684C>T,15.56,0.003,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1894A>C (p.Ser632Arg),NM_007294.4:c.1894A>C,20.7,0.75,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1577A>G (p.Gln526Arg),NM_007294.4:c.1577A>G,13.83,0.138,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5271C>A (p.Asp1757Glu),NM_007294.4:c.5271C>A,13.76,0.006,0.44,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2041A>C (p.Ser681Arg),NM_007294.4:c.2041A>C,9.181,0.092,0.32,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5197G>A (p.Asp1733Asn),NM_007294.4:c.5197G>A,20.9,0.138,0.21,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.644A>C (p.Glu215Ala),NM_007294.4:c.644A>C,20.3,0.003,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4189A>C (p.Arg1397=),NM_007294.4:c.4189A>C,10.94,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.670+1del,NM_007294.4:c.670+1del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.373A>G (p.Ile125Val),NM_007294.4:c.373A>G,19.41,0.029,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5520C>G (p.Asp1840Glu),NM_007294.4:c.5520C>G,22.9,0.001,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.-19-4_-19-3dup,NM_007294.4:c.-19-4_-19-3dup,14.85,0.076,0.05,6.842e-07,Duplication
+NM_007294.4(BRCA1):c.3598C>G (p.Gln1200Glu),NM_007294.4:c.3598C>G,12.41,0.085,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4867G>A (p.Ala1623Thr),NM_007294.4:c.4867G>A,4.411,0.0,0.11,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.*693C>T,NM_007294.4:c.*693C>T,0.518,0.076,0.05,0.0001402,single nucleotide variant
+NM_007294.4(BRCA1):c.4718A>G (p.Asp1573Gly),NM_007294.4:c.4718A>G,9.173,0.074,0.1,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4490C>T (p.Ser1497Phe),NM_007294.4:c.4490C>T,24.4,0.558,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4220T>G (p.Leu1407Arg),NM_007294.4:c.4220T>G,24.5,0.01,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5334T>A (p.Asp1778Glu),NM_007294.4:c.5334T>A,18.36,0.009,0.12,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5030C>T (p.Thr1677Ile),NM_007294.4:c.5030C>T,16.84,0.18,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4987-4del,NM_007294.4:c.4987-4del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.4954_4956del (p.Met1652del),NM_007294.4:c.4954_4956del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.4948_4966del (p.Met1650fs),NM_007294.4:c.4948_4966del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.2612_2614delinsTGC (p.Pro871_Phe872delinsLeuLeu),NM_007294.4:c.2612_2614delinsTGC,14.85,0.076,0.05,6.842e-07,Indel
+NM_007294.4(BRCA1):c.4376A>G (p.Lys1459Arg),NM_007294.4:c.4376A>G,17.99,0.057,0.17,1.369e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.25G>C (p.Glu9Gln),NM_007294.4:c.25G>C,20.8,0.711,0.1,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4358-2A>G,NM_007294.4:c.4358-2A>G,34.0,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4475G>C (p.Gly1492Ala),NM_007294.4:c.4475G>C,6.252,0.041,0.16,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4412G>C (p.Gly1471Ala),NM_007294.4:c.4412G>C,7.775,0.017,0.3,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4090A>G (p.Asn1364Asp),NM_007294.4:c.4090A>G,2.697,0.0,0.67,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5067G>C (p.Met1689Ile),NM_007294.4:c.5067G>C,16.79,0.054,0.17,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.593G>A (p.Ser198Asn),NM_007294.4:c.593G>A,30.0,0.538,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3345AGT[1] (p.Val1117del),NM_007294.4:c.3345AGT[1],14.85,0.076,0.05,6.842e-07,Microsatellite
+NM_007294.4(BRCA1):c.2754G>C (p.Lys918Asn),NM_007294.4:c.2754G>C,4.718,0.104,0.03,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.*58C>G,NM_007294.4:c.*58C>G,3.451,0.076,0.05,1.37e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.3691T>G (p.Phe1231Val),NM_007294.4:c.3691T>G,21.0,0.263,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4865C>G (p.Thr1622Ser),NM_007294.4:c.4865C>G,4.377,0.006,0.24,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.796G>T (p.Val266Phe),NM_007294.4:c.796G>T,22.7,0.966,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4531C>T (p.His1511Tyr),NM_007294.4:c.4531C>T,11.88,0.138,0.11,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.465A>T (p.Gln155His),NM_007294.4:c.465A>T,1.282,0.0,0.05,6.572e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.856G>C (p.Glu286Gln),NM_007294.4:c.856G>C,20.9,0.921,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.794C>T (p.Ser265Phe),NM_007294.4:c.794C>T,23.6,0.988,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5585A>G (p.His1862Arg),NM_007294.4:c.5585A>G,9.677,0.164,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5074+6C>A,NM_007294.4:c.5074+6C>A,12.55,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1241A>G (p.Asp414Gly),NM_007294.4:c.1241A>G,15.82,0.007,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.542A>C (p.Glu181Ala),NM_007294.4:c.542A>C,20.8,0.057,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.670+8C>G,NM_007294.4:c.670+8C>G,9.602,0.076,0.05,1.372e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.3224A>G (p.Asn1075Ser),NM_007294.4:c.3224A>G,6.729,0.401,0.14,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3535A>G (p.Lys1179Glu),NM_007294.4:c.3535A>G,18.33,0.115,0.04,6.842e-07,single nucleotide variant
+NM_007294.3(BRCA1):c.4676_4678del,NM_007294.3:c.4676_4678del,14.85,0.076,0.05,6.842e-07,Deletion
+NM_007294.4(BRCA1):c.1971A>C (p.Gln657His),NM_007294.4:c.1971A>C,14.67,0.742,0.04,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4358-20_4358-18delinsGTG,NM_007294.4:c.4358-20_4358-18delinsGTG,14.85,0.076,0.05,6.842e-07,Indel
+NM_007294.4(BRCA1):c.3785_3787del (p.Ser1262del),NM_007294.4:c.3785_3787del,14.85,0.076,0.05,6.841e-07,Deletion
+NM_007294.4(BRCA1):c.5407G>A (p.Gly1803Ser),NM_007294.4:c.5407G>A,19.42,0.06,0.05,6.841e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4630C>A (p.Pro1544Thr),NM_007294.4:c.4630C>A,2.693,0.015,0.2,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.2006T>G (p.Met669Arg),NM_007294.4:c.2006T>G,0.058,0.034,0.1,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.810T>A (p.His270Gln),NM_007294.4:c.810T>A,17.22,0.793,0.09,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3271C>T (p.Pro1091Ser),NM_007294.4:c.3271C>T,21.4,0.93,0.03,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.959G>A (p.Arg320Lys),NM_007294.4:c.959G>A,24.2,0.992,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4472C>G (p.Pro1491Arg),NM_007294.4:c.4472C>G,17.17,0.003,0.02,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4852C>T (p.His1618Tyr),NM_007294.4:c.4852C>T,8.364,0.151,0.06,2.052e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.5333-46G>A,NM_007294.4:c.5333-46G>A,0.083,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.571G>T (p.Val191Phe),NM_007294.4:c.571G>T,10.64,0.09,0.24,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5495T>C (p.Val1832Ala),NM_007294.4:c.5495T>C,24.8,0.708,0.0,6.84e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.520C>G (p.Gln174Glu),NM_007294.4:c.520C>G,21.4,0.536,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4868C>T (p.Ala1623Val),NM_007294.4:c.4868C>T,4.983,0.0,0.29,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.5059G>C (p.Val1687Leu),NM_007294.4:c.5059G>C,20.7,0.011,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.1586C>T (p.Pro529Leu),NM_007294.4:c.1586C>T,23.5,0.687,0.01,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4185+3984G>T,NM_007294.4:c.4185+3984G>T,11.15,0.076,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4597G>T (p.Asp1533Tyr),NM_007294.4:c.4597G>T,15.67,0.003,0.0,5.472e-06,single nucleotide variant
+NM_007294.4(BRCA1):c.206C>G (p.Thr69Ser),NM_007294.4:c.206C>G,23.3,0.376,0.0,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.3727A>G (p.Arg1243Gly),NM_007294.4:c.3727A>G,16.1,0.04,0.05,6.842e-07,single nucleotide variant
+NM_007294.4(BRCA1):c.4723C>T (p.Pro1575Ser),NM_007294.4:c.4723C>T,15.2,0.333,0.06,6.842e-07,single nucleotide variant
