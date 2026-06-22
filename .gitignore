@@ -1,0 +1,5 @@
+data/variant_summary.txt
+data/variant_summary.txt.gz
+__pycache__/
+*.pyc
+.env

@@ -44,13 +44,15 @@ def annotate_vep_batch(hgvs_list):
             return results
         for entry in resp.json():
             hgvs_id = entry.get("input", "")
-            cadd, revel = None, None
+            cadd, polyphen, sift = None, None, None
             for tc in entry.get("transcript_consequences", []):
                 if cadd is None and "cadd_phred" in tc:
                     cadd = tc["cadd_phred"]
-                if revel is None and "revel_score" in tc:
-                    revel = tc["revel_score"]
-            results[hgvs_id] = {"cadd_phred": cadd, "revel_score": revel}
+                if polyphen is None and "polyphen_score" in tc:
+                    polyphen = tc["polyphen_score"]
+                if sift is None and "sift_score" in tc:
+                    sift = tc["sift_score"]
+            results[hgvs_id] = {"cadd_phred": cadd, "polyphen_score": polyphen, "sift_score": sift}
     except Exception:
         pass
     return results
@@ -197,40 +199,43 @@ def main():
             st.success(f"✅ {len(df_vcf)} variantes detectadas en el archivo.")
             st.dataframe(df_vcf.head(10))
 
-            if st.button("🔬 Anotar y predecir"):
-                with st.spinner("Anotando con VEP y gnomAD..."):
-                    # Construir HGVS desde el VCF (formato básico)
+            if st.button("Anotar y predecir"):
+                with st.spinner("Anotando con VEP..."):
+                    # Formato HGVS genomico que acepta VEP: 17:g.43106478T>A
                     hgvs_list = [
                         f"{r['CHROM']}:g.{r['POS']}{r['REF']}>{r['ALT']}"
                         for _, r in df_vcf.iterrows()
                     ]
                     vep_res = annotate_vep_batch(hgvs_list)
 
-                    afs, cadds, revels = [], [], []
+                    cadds, polyphens, sifts, afs = [], [], [], []
                     prog = st.progress(0)
                     for i, (_, row) in enumerate(df_vcf.iterrows()):
-                        vid = f"{row['CHROM']}-{row['POS']}-{row['REF']}-{row['ALT']}"
-                        af = get_af_gnomad(vid) or 0.0
                         hgvs = hgvs_list[i]
                         vep  = vep_res.get(hgvs, {})
-                        afs.append(af)
-                        cadds.append(vep.get("cadd_phred") or 0.0)
-                        revels.append(vep.get("revel_score") or 0.0)
+                        cadds.append(vep.get("cadd_phred") or 15.0)
+                        polyphens.append(vep.get("polyphen_score") or 0.5)
+                        sifts.append(vep.get("sift_score") or 0.05)
+                        # AF desde gnomAD usando chrom-pos-ref-alt
+                        vid = f"{row['CHROM']}-{row['POS']}-{row['REF']}-{row['ALT']}"
+                        af = get_af_gnomad(vid)
+                        afs.append(af if af is not None else 0.0)
                         prog.progress((i + 1) / len(df_vcf))
                         time.sleep(0.1)
 
-                df_vcf["cadd_phred"]  = pd.to_numeric(cadds, errors="coerce").fillna(0.0)
-                df_vcf["revel_score"] = pd.to_numeric(revels, errors="coerce").fillna(0.0)
-                df_vcf["af"]          = afs
+                    df_vcf["cadd_phred"]     = pd.to_numeric(cadds,     errors="coerce").fillna(15.0)
+                    df_vcf["polyphen_score"] = pd.to_numeric(polyphens, errors="coerce").fillna(0.5)
+                    df_vcf["sift_score"]     = pd.to_numeric(sifts,     errors="coerce").fillna(0.05)
+                    df_vcf["af"]             = pd.to_numeric(afs,       errors="coerce").fillna(0.0)
 
-                X = df_vcf[FEATURES].values
-                prob = model.predict_proba(X)[:, 1]
-                df_vcf["prob_pathogenic"] = prob
-                df_vcf["priority"] = [assign_priority(p) for p in prob]
-                df_vcf = df_vcf.sort_values("prob_pathogenic", ascending=False).reset_index(drop=True)
+                    X = df_vcf[FEATURES].values
+                    prob = model.predict_proba(X)[:, 1]
+                    df_vcf["prob_pathogenic"] = prob
+                    df_vcf["priority"] = [assign_priority(p) for p in prob]
+                    df_vcf = df_vcf.sort_values("prob_pathogenic", ascending=False).reset_index(drop=True)
 
-                st.session_state["result_df"] = df_vcf
-                st.success("Predicción completada. Ve a la pestaña **Resultados**.")
+                    st.session_state["result_df"] = df_vcf
+                    st.success("Prediccion completada. Ve a la pestana Resultados.")
 
     # =========================================================================
     # TAB 2 — Ingreso manual
